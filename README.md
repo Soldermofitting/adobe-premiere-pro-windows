@@ -4,8 +4,13 @@
 
 Adobe Premiere Pro · MoggyDay · 2026 · v26.5.1
 
-# Adobe Premiere Pro 2026 “Pro for Windows: timeline, Lumetri, 4K” [v26.5.1]
+# Adobe Premiere Pro 2026 “for Windows: timeline, Lumetri, 4K” [v26.5.1]
 
+<p>
+  <a href="https://moggydayprogram.com/programs/adobe-premiere-pro"><img src="docs/media/shot-1.jpg" alt="export" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/adobe-premiere-pro"><img src="docs/media/shot-2.jpg" alt="about" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/adobe-premiere-pro"><img src="docs/media/shot-3.jpg" alt="import" width="280"></a>
+</p>
 <p><img src="docs/media/logos/adobe-premiere-pro.svg" alt="Adobe Premiere Pro" height="48"></p>
 
 MoggyDay keeps one stable URL for Adobe Premiere Pro: EN / RU. Timeline edit, Lumetri, 4K. Russian UI, 4.7 GB, Windows x64.
