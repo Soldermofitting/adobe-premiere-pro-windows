@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://soldermofitting.github.io/adobe-premiere-pro-windows/) picks English or Russian from the browser. Switch: [English](https://soldermofitting.github.io/adobe-premiere-pro-windows/?lang=en) · [Русский](https://soldermofitting.github.io/adobe-premiere-pro-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/adobe-premiere-pro"><img src="docs/media/preview.jpg" alt="Premiere Pro preview" width="640"></a>
+</p>
+
 Adobe Premiere Pro · MoggyDay · 2026 · v26.5.1
 
 # Adobe Premiere Pro 2026 “for Windows: timeline, Lumetri, 4K” [v26.5.1]
