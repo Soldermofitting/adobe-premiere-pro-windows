@@ -23,7 +23,7 @@ MoggyDay keeps one stable URL for Adobe Premiere Pro: EN / RU. Timeline edit, Lu
 
 1. Open [Adobe Premiere Pro EN](https://moggydayprogram.com/en/programs/adobe-premiere-pro) or [Adobe Premiere Pro RU](https://moggydayprogram.com/programs/adobe-premiere-pro).
 2. Stay on moggydayprogram.com.
-3. Use the primary button on that card. Prefer [MoggyDay Launcher](https://moggydayprogram.com/launcher) if the archive is large.
+3. Open the catalog card and download there. No package is attached here.
 4. After a catalog update, reload the same program URL.
 
 ## Official links
